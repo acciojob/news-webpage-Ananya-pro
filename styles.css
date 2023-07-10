@@ -1,27 +1,2 @@
 /*  your css code here. If applicable */
-*{
-	width:100%;
-	height: auto;
-}
-column{
-	border-radius: 3px;
-}
-body{
-	box-sizing: border-box;
-	display: inline;
-	background-color: #f5f5f5;
-	
-}
-header{
-	background-color: #011e29;
-	color: white;
-	text-align: center;
-	padding : 1px;
-	margin : 01px
-}
-.main{
-	display: flex;
-}
-.row.column.section-1{
-	border-radius: 5px;
-}
+
